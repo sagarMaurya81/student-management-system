@@ -100,3 +100,6 @@ python3 student-management.py
 ```
 
 Note:- Python should be installed in your computer
+
+## Technology Used
+- **Python 3** – Main programming language
