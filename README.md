@@ -85,9 +85,8 @@ student-management/
 
 ```
 
-# How to Use
 
-## 1. Open Terminal
+## How to Use
 
 Open a terminal or command prompt and go to the project folder:
 
