@@ -84,8 +84,7 @@ student-management/
 └── README.md
 
 ```
-
-# How to Use
+# How to use 
 
 ## Open Terminal
 
