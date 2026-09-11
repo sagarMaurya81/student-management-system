@@ -87,12 +87,15 @@ student-management/
 
 # How to Use
 
-## 1. Open Terminal
+## Open Terminal
 
 Open a terminal or command prompt and go to the project folder:
+```bash
+git clone https://github.com/sagarMaurya81/student-management-system.git
+```
 
 ```bash
-cd student-management
+cd student-management-system
 ```
 
 ```bash
